@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cookpals</string>
+      <string name="facebook_app_id">738824893786395</string>
+    <string name="facebook_client_token">62d88dace50fcc5c85965a4525180237</string>
+</resources>

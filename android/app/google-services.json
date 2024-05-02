@@ -1,0 +1,47 @@
+{
+    "project_info": {
+        "project_number": "719487869709",
+        "project_id": "cookpals-5d4e1",
+        "storage_bucket": "cookpals-5d4e1.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:719487869709:android:d72648e262c68f8c490644",
+                "android_client_info": {
+                    "package_name": "com.cookpals"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "719487869709-sksi74tahn4bvg39c3c29u94o4ndt8ml.apps.googleusercontent.com",
+                    "client_type": 1,
+                    "android_info": {
+                        "package_name": "com.cookpals",
+                        "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+                    }
+                },
+                {
+                    "client_id": "719487869709-t2e5ak3j723rbrnn1q0oc1fghesmr6l8.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyCwqaVbHoESS-d4878_923CeOsUwdK5Xgg"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "719487869709-t2e5ak3j723rbrnn1q0oc1fghesmr6l8.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
